@@ -11,7 +11,7 @@ const About = () => {
           Go to home
         </a>
       </div>
-      <p>About page</p>
+      <p>About page (to be added)</p>
     </>
   );
 };
